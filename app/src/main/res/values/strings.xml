@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tour App</string>
+    <string name="category_landmarks">Places</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_restaurants">Eats</string>
+    <string name="category_trails">Trails</string>
+
+    <!-- parks information -->
+    <string name="park_one">Lindley Park</string>
+    <string name="park_details_one">"Bathrooms: Yes \nPlayground: Yes \nWater: Yes \nReservations: Possible"</string>
+    <string name="park_two">Story Mansion Park</string>
+    <string name="park_details_two">Bathrooms: Yes \nPlayground: No \nWater: No \nReservations: Required</string>
+    <string name="park_three">Southside Park</string>
+    <string name="park_details_three">Bathrooms: Yes \nPlayground: Yes \nWater: No \nReservations: No</string>
+    <string name="park_four">Bogert Park</string>
+    <string name="park_details_four">Bathrooms: Yes \nPlayground: Yes \nWater: Yes \nReservations: Possible</string>
+    <string name="park_five">Gallatin Regional Park</string>
+    <string name="park_details_five">Bathrooms: Portable \nPlayground: Yes \nWater: Yes \nReservations: Possible</string>
+
+    <!-- restaurants information -->
+    <string name="restaurants_one">Montana Ale Works</string>
+    <string name="restaurants_details_one">Hours: 4PM-12AM \nPatio: Yes: \nDogs: No \nBar: Yes</string>
+    <string name="restaurants_two">Roost Fried Chicken</string>
+    <string name="restaurants_details_two">Hours: 11AM-9PM \nPatio: Yes: \nDogs: Yes \nBar: Beer</string>
+    <string name="restaurants_three">Open Range</string>
+    <string name="restaurants_details_three">Hours: 5PM-2AM \nPatio: No: \nDogs: No \nBar: Yes</string>
+    <string name="restaurants_four">Jam!</string>
+    <string name="restaurants_details_four">Hours: 7AM-3:30PM \nPatio: No: \nDogs: No \nBar: Beer and Wine</string>
+    <string name="restaurants_five">The Garage: Soup Shack and Mesquite Grill</string>
+    <string name="restaurants_details_five">Hours: 11AM-9PM \nPatio: Yes: \nDogs: Yes \nBar: Beer and Wine</string>
+
+    <!-- landmarks information -->
+    <string name="landmark_one">Museum of the Rockies</string>
+    <string name="landmark_details_one">Hours: 8AM-6PM \n600 W Kagy Blvd, Bozeman, MT 59717</string>
+    <string name="landmark_two">East Gallatin Recreation Area</string>
+    <string name="landmark_details_two">Hours: 7AM-10PM \n1500 Manley Rd, Bozeman, MT 59715</string>
+    <string name="landmark_three">Gallatin History Museum</string>
+    <string name="landmark_details_three">Hours: 11AM-5PM \n317 W Main St, Bozeman, MT 59715</string>
+    <string name="landmark_four">Emerson Center for the Arts and Culture</string>
+    <string name="landmark_details_four">Hours: 9AM-5PM \n111 S Grand Ave, Bozeman, MT 59715</string>
+    <string name="landmark_five">Bridger Bowl Ski Area</string>
+    <string name="landmark_details_five">Hours: 9AM-4PM \n15795 Bridger Canyon Rd, Bozeman, MT 59715</string>
+
+    <!-- trails information -->
+    <string name="trails_one">M Trail</string>
+    <string name="trails_details_one">Length: 1.9 miles \nType: Loop \nDifficulty: Moderate</string>
+    <string name="trails_two">Drinking Horse Mountain Trail</string>
+    <string name="trails_details_two">Length: 2.1 miles \nType: Loop \nDifficulty: Moderate</string>
+    <string name="trails_three">Gallagator Trail</string>
+    <string name="trails_details_three">Length: 3.2 miles \nType: Out and Back \nDifficulty: Easy</string>
+    <string name="trails_four">Garnet Mountain</string>
+    <string name="trails_details_four">Length: 6.7 miles \nType: Out and Back \nDifficulty: Hard</string>
+    <string name="trails_five">Sacagawea Peak</string>
+    <string name="trails_details_five">Length: 3.8 miles \nType: Out and Back \nDifficulty: Moderate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
